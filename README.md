@@ -49,7 +49,9 @@ To generate 1D profiles or 2D heatmaps of the supported PSF models:
 Bash
 python scripts/psf_1d_code.py
 python scripts/psf_2d_code.py
+
 Academic Context
+
 Author: Ildar Ibatullin
 
 Institution: Taras Shevchenko National University of Kyiv
